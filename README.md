@@ -1,4 +1,4 @@
 H# Pokedex
-trabajo
+trabajov
 trabajo
 trabajogg
